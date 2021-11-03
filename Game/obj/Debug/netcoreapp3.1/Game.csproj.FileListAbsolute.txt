@@ -1,0 +1,16 @@
+C:\Users\Eugene\source\repos\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.AssemblyReference.cache
+C:\Users\Eugene\source\repos\Game\Game\obj\Debug\netcoreapp3.1\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugene\source\repos\Game\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+C:\Users\Eugene\source\repos\Game\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+C:\Users\Eugene\source\repos\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\source\repos\Game\Game\bin\Debug\netcoreapp3.1\Game.exe
+C:\Users\Eugene\source\repos\Game\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+C:\Users\Eugene\source\repos\Game\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+C:\Users\Eugene\source\repos\Game\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+C:\Users\Eugene\source\repos\Game\Game\bin\Debug\netcoreapp3.1\Game.dll
+C:\Users\Eugene\source\repos\Game\Game\bin\Debug\netcoreapp3.1\Game.pdb
+C:\Users\Eugene\source\repos\Game\Game\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\Eugene\source\repos\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.CopyComplete
+C:\Users\Eugene\source\repos\Game\Game\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\Eugene\source\repos\Game\Game\obj\Debug\netcoreapp3.1\Game.pdb
+C:\Users\Eugene\source\repos\Game\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache
